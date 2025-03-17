@@ -1,0 +1,10 @@
+{
+  "cargaVehicular": 40,
+  "velocidadPromedio": 35.2,
+  "vehiculos": {
+    "1": 30,  
+    "2": 5,  
+    "3": 3,   
+    "4": 2    
+  }
+}
